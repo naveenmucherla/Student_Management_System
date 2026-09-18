@@ -1,0 +1,19 @@
+# Node
+**/node_modules/
+**/dist/
+**/.angular/
+
+# Java / Maven
+**/target/
+**/*.class
+**/*.jar
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+.DS_Store
+Thumbs.db
